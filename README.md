@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lbrynest
+- 👋 Hi, I’m Lbrynest
 - 👀 I’m interested in improving my code
 - 🌱 I’m currently learning a lot
 - 💞️ I’m looking to collaborate on stuff
